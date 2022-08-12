@@ -1,6 +1,6 @@
 {
   "name": "tonokira",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "description": "It's a wrapper for tononkira.serasera.org (Lyrics database for Malagasy Songs)",
