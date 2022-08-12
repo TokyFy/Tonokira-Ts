@@ -1,9 +1,21 @@
 {
-  "name": "Tonokira",
+  "name": "tonokira",
   "version": "1.0.0",
-  "main": "index.js",
-  "author": "Toky",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "description": "It's a wrapper for tononkira.serasera.org (Lyrics database for Malagasy Songs)",
+  "author" : "Toky",
   "license": "MIT",
+  "repository" : "TokyFy/Tonokira-Ts",
+  "keywords": [
+    "tonokira",
+    "malagasy",
+    "typescript",
+    "lyrics"
+  ],
+  "scripts": {
+    "build": "tsc"
+  },
   "dependencies": {
     "@types/axios": "^0.14.0",
     "@types/cheerio": "^0.22.31",

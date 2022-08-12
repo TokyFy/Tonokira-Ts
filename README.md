@@ -1,4 +1,5 @@
 # Tonokira-Ts 
+![npm](https://img.shields.io/npm/v/tonokira)
 
 It's a wrapper for tononkira.serasera.org (Lyrics database for Malagasy Songs)
 
