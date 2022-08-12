@@ -69,10 +69,4 @@ async function getLyricsByUrl (url : string) : Promise<string> {
     return $('.col.l-2-3.s-1-1').text().trim();
 }
 
-(async ()=> {
-    // console.log(await search('kri'));
-    // console.log(await getLyricsByUrl('https://tononkira.serasera.org/hira/kristel/akao'));
-    // console.log(await searchBy('' , 'Kristel'))
-})();
-
 export {search , searchBy , searchByTitle , searchByArtist , searchByLyrics , getLyricsByUrl , IMusic};
