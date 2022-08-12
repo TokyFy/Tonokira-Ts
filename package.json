@@ -1,12 +1,12 @@
 {
   "name": "tonokira",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "description": "It's a wrapper for tononkira.serasera.org (Lyrics database for Malagasy Songs)",
-  "author" : "Toky",
+  "author": "Toky",
   "license": "MIT",
-  "repository" : "TokyFy/Tonokira-Ts",
+  "repository": "TokyFy/Tonokira-Ts",
   "keywords": [
     "tonokira",
     "malagasy",
