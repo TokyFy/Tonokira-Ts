@@ -3,6 +3,16 @@
 
 It's a wrapper for tononkira.serasera.org (Lyrics database for Malagasy Songs)
 
+## 📦 Install
+
+```shell
+npm i tonokira
+
+#or
+
+yarn add tonokira
+```
+
 ## 🚀 Usage
 
 ```typescript
