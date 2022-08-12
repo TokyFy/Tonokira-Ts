@@ -16,6 +16,7 @@
   "scripts": {
     "build": "tsc"
   },
+  "registry": "https://npm.pkg.github.com/",
   "dependencies": {
     "@types/axios": "^0.14.0",
     "@types/cheerio": "^0.22.31",
